@@ -1,0 +1,1 @@
+{'trim': 'n', 'start_trim': ['2020_06_18_15_10_0'], 'end_trim': ['2020_06_28_03_0_0'], 'trimtime': 'quiet', 'freqmin': 5, 'freqmax': 15, 'dec_factor': 5, 'max_percentage': 0.05, 'max_length': 50, 'norm_method': '1bit', 'norm_win': 0.5, 'corrwin': 20, 'segwin': 3600, 'sps': 100}
