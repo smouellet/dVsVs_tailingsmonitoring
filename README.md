@@ -1,4 +1,6 @@
 # Advanced monitoring of tailings dam performance using seismic noise and stress models
+[![DOI](https://zenodo.org/badge/476495005.svg)](https://zenodo.org/badge/latestdoi/476495005)
+
 Includes scripts and notebooks used to create figures in Ouellet et al. 2022.
 
 Link to pre-print: https://www.researchsquare.com/article/rs-1647118/v1
